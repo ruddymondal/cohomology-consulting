@@ -1,0 +1,31 @@
+/* Hero spacing + typography */
+.hero-title {
+  font-size: 2.75rem;
+  line-height: 1.1;
+}
+
+.hero-lead {
+  max-width: 40rem;
+  font-size: 1.05rem;
+}
+
+/* Make CTAs look like expensive work, not a blog */
+.btn-primary {
+  border-radius: 999px;
+  padding: 0.8rem 1.8rem;
+  font-weight: 600;
+}
+
+/* Subtle card tweaks */
+.service-card {
+  border-radius: 1rem;
+  padding: 1.75rem;
+}
+
+/* Darker header */
+.site-header {
+  background-color: #020617;
+}
+
+/* You can add more tweaks as you see how the site looks */
+

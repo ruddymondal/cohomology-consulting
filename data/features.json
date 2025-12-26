@@ -1,0 +1,22 @@
+[
+  {
+    "title": "End-to-End OR Modelling",
+    "description": "End-to-end OR modelling for institutes",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Dynamic Graph Prioritization",
+    "description": "Dynamic GCN node scoring from your raw data",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Structural Coherence Diagnostics",
+    "description": "Sheaf cohomology diagnostics for structural inconsistencies",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Full Explainability",
+    "description": "No black-box: every model and recommendation is fully explained",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
